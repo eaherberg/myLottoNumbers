@@ -31,4 +31,4 @@ const myDraw = array => {
 // lotto numbers array
 const myLotto = [13, 26, 28, 3, 47, 19, 43, 37, 27, 39, 25, 17, 8, 1, 49, 21, 12, 6, 33, 24, 10, 32, 38, 20, 30, 22, 41, 4, 7, 42, 5, 36, 46, 16, 34, 14, 35, 40, 23, 15, 45, 2, 11, 48, 31, 9];
 // make call to functions with lotto number array
-myDraw(shuffle(myLotto));
+document.myDraw(shuffle(myLotto));
